@@ -34,7 +34,7 @@
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(432, 220);
+            comboBox1.Location = new Point(459, 220);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(151, 28);
             comboBox1.TabIndex = 0;
